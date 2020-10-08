@@ -1,6 +1,6 @@
 # mirror-submitter
-coded by dre4m - mirror submitter
-required : NET 3.5
+coded by dre4m - mirror submitter<br>
+required : NET 3.5<br>
 Contact :<br>
-nicedre4m@yahoo.com<br>
-https://forum.devilzc0de.id/u/dre4m
+<li>nicedre4m@yahoo.com<br></li>
+<li>https://forum.devilzc0de.id/u/dre4m</li>
